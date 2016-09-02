@@ -1,4 +1,4 @@
-package coordtrans
+package trans
 
 import (
 	"math"
